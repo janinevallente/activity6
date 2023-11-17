@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity6</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="press_alert_dialog">Press alert dialog</string>
+    <string name="press_date_picker_dialog">Press date picker dialog</string>
+    <string name="press_time_picker_dialog">Press time picker dialog</string>
+</resources>
